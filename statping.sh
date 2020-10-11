@@ -1,1 +1,1 @@
-ansible docker -a "docker pull statping/statping:latest" -u pi
+ansible docker -a "docker pull eafxx/statping:latest" -u pi
