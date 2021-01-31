@@ -1,1 +1,1 @@
-ansible docker -a "docker pull homeassistant/home-assistant:stable" -u pi
+ansible docker -a "docker pull linuxserver/homeassistant:latest" -u ubuntu
